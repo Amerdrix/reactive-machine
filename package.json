@@ -1,0 +1,24 @@
+{
+  "name": "reactive-machine",
+  "version": "1.0.0",
+  "description": "A reactive state machine",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amerdrix/reactive-machine.git"
+  },
+  "keywords": [
+    "rx",
+    "reactive",
+    "state"
+  ],
+  "author": "Courtney de Lautour",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amerdrix/reactive-machine/issues"
+  },
+  "homepage": "https://github.com/Amerdrix/reactive-machine#readme"
+}
